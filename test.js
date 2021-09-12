@@ -197,7 +197,8 @@ function stopDraw() {
 
         console.log("Dealer lost, his sum is " + displayDealerSum)
         dealerDisplayText.textContent += ">>> " + displayDealerSum + " " + "dealer lost"
-        title.textContent = "You won! :)"
+        if (sumOfCards < 21) title.textContent = "You won! :)"
+        else title.textContent = "Draw!"
     }
 
     else if (displayDealerSum < sumOfCards) {

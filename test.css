@@ -1,0 +1,94 @@
+body{
+
+    background-color: #57CC99;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+
+button {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #000000 2px;
+    text-decoration: none;
+  }
+  
+  button:hover {
+    background: #ffa200;
+    background-image: -webkit-linear-gradient(top, #ffa200, #b37100);
+    background-image: -moz-linear-gradient(top, #ffa200, #b37100);
+    background-image: -ms-linear-gradient(top, #ffa200, #b37100);
+    background-image: -o-linear-gradient(top, #ffa200, #b37100);
+    background-image: linear-gradient(to bottom, #ffa200, #b37100);
+    text-decoration: none;
+  }
+
+  #nikeShoe {
+
+    display: block;
+    width: 20%;
+    margin: auto;
+
+  }
+
+  .firstDiv{
+
+    text-align: center;
+    line-height: 7rem;
+
+  }
+
+  .secondDiv{
+
+    text-align: center;
+    margin-top: 10rem;
+
+  }
+
+  h1{
+
+    word-spacing: 1rem;
+    margin: auto;
+    color: white;
+
+  }
+
+  #first{
+      
+    text-decoration: underline;
+
+  }
+
+  #second{
+      
+    text-decoration: underline;
+
+  }
+
+  .blkjk{
+
+    color: #FFB319;
+    font-size: 5rem;
+    margin-top: 3rem;
+
+  }
+
+  #messege-el{
+
+    font-style: italic;
+
+  }
